@@ -217,6 +217,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     power.msm8952
 
+# QPerformance
+PRODUCT_BOOT_JARS += QPerformance
+
 # Qualcomm dependencies
 PRODUCT_PACKAGES += \
     libtinyxml \
